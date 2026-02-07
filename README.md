@@ -9,9 +9,9 @@ My work focuses on building **end-to-end pipelines** — from raw signals to rel
 
 ## 🔬 What I work on
 
-- Spectral-domain OCT reconstruction and 3D volume processing  
 - Digital signal processing (FFT, wavelets, filtering, denoising)
 - Biomedical signal analysis (SNA, physiological time-series)
+- Spectral-domain OCT reconstruction and 3D volume processing  
 - Numerical modeling and optimization
 - Python, MATLAB, C++, CUDA-accelerated workflows
 
@@ -39,7 +39,15 @@ My work focuses on building **end-to-end pipelines** — from raw signals to rel
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python, MATLAB, C++, CUDA
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+
 
 **Core Skills**
 - Signal & image processing
