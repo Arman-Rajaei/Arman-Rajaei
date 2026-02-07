@@ -16,10 +16,6 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - Numerical modeling and optimization
 - Python, MATLAB, C++, CUDA-accelerated workflows
   
-
-## 🛠️ Tech Stack
-
-**Languages**
 ## 🛠️ Languages & Tools
 
 <p>
