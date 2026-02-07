@@ -3,8 +3,11 @@
 I'm a **Signal Processing & Machine Learning Engineer** with a strong background in  
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
-My work focuses on building **end-to-end pipelines** — from raw signals to reliable, interpretable results.
+My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
 
+<p align="center">
+  <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="450" />
+</p>
 ---
 
 ## 🔬 What I work on
