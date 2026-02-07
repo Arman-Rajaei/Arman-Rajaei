@@ -5,8 +5,10 @@ I'm a **Signal Processing & Machine Learning Engineer** with a strong background
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
 <p align="center">
-  <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="450" />
+  <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="500" />
 </p>
+
+---
 
 ## 🔬 What I work on
 
@@ -18,15 +20,17 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Project
 
-### 🧠 Spectral-Domain OCT 3D Pipeline
+|  |  |
+|---|---|
+| <img src="assets/oct_pipeline.png" width="180"/> | **🧠 Spectral-Domain OCT 3D Pipeline**  
 🔗 [GitHub Repository](https://github.com/Arman-Rajaei/Spectral-Domain-OCT-3D-Pipeline)
 
-- Full OCT reconstruction pipeline from raw spectra
-- k-linearization, dispersion compensation, motion & tilt correction
-- 2D B-scan and fully corrected 3D volume generation
-- MATLAB implementation with a C++ / CUDA-oriented design mindset
+- End-to-end OCT reconstruction from raw spectral interferograms  
+- k-linearization, dispersion compensation, motion and tilt correction  
+- 2D B-scan formation and fully corrected 3D volume generation  
+- MATLAB implementation with a C++ / CUDA-oriented design mindset |
 
 ---
 
