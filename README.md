@@ -1,21 +1,14 @@
-_# Hi, I'm Arman 
+# Hi, I'm Arman 
 
 I'm a **Signal Processing & Machine Learning Engineer** with a strong background in  
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
-<table>
-  <tr>
-    <td width="20%" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-    </td>
-    <td width="80%" align="right">
-      <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="420"/>
-    </td>
-  </tr>
-</table>
+|  |  |
+|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> | <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="480"/> |
+
+
 
 
 
