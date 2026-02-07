@@ -1,9 +1,23 @@
-# Hi, I'm Arman 👋
+_# Hi, I'm Arman 
 
 I'm a **Signal Processing & Machine Learning Engineer** with a strong background in  
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+    </td>
+    <td width="80%" align="right">
+      <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="420"/>
+    </td>
+  </tr>
+</table>
+
+
 
 <p align="center">
   <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="450" />
@@ -50,8 +64,6 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-
-
 **Core Skills**
 - Signal & image processing
 - Fourier and wavelet analysis
@@ -78,3 +90,4 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - 💼 LinkedIn: *((https://www.linkedin.com/in/arman-rajaei/))*
 - 🌐 GitHub: https://github.com/Arman-Rajaei
 
+_
