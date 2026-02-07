@@ -17,28 +17,7 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - Spectral-domain OCT reconstruction and 3D volume processing  
 - Numerical modeling and optimization
 - Python, MATLAB, C++, CUDA-accelerated workflows
-
----
-
-## 🚀 Recent Project
-
-|  |  |
-|---|---|
-| <img src="assets/oct_pipeline.png" width="180"/> | **🧠 Spectral-Domain OCT 3D Pipeline**  
-🔗 [GitHub Repository](https://github.com/Arman-Rajaei/Spectral-Domain-OCT-3D-Pipeline)
-
-- End-to-end OCT reconstruction from raw spectral interferograms  
-- k-linearization, dispersion compensation, motion and tilt correction  
-- 2D B-scan formation and fully corrected 3D volume generation  
-- MATLAB implementation with a C++ / CUDA-oriented design mindset |
-
----
-
-### 📊 Biomedical Signal Processing Toolkit
-- Wavelet-based denoising
-- Pattern extraction and unsupervised clustering
-- Designed for noisy physiological recordings
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -75,7 +54,7 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: *((https://www.linkedin.com/in/arman-rajaei/))*
-- 🌐 GitHub: https://github.com/Arman-Rajaei
+- 💼 LinkedIn: **https://www.linkedin.com/in/arman-rajaei/**
+- 🌐 GitHub: **https://github.com/Arman-Rajaei**
 
 _
