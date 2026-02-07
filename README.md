@@ -8,8 +8,6 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
   <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="500" />
 </p>
 
----
-
 ## 🔬 What I work on
 
 - Digital signal processing (FFT, wavelets, filtering, denoising)
@@ -18,7 +16,6 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - Numerical modeling and optimization
 - Python, MATLAB, C++, CUDA-accelerated workflows
   
----
 
 ## 🛠️ Tech Stack
 
@@ -42,19 +39,14 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - MATLAB toolboxes
 - Git, Jupyter
 
----
-
 ## 📌 Current Interests
 
 - High-performance signal processing
 - Translating research code into production-ready pipelines
 - Applied ML for biomedical and sensing systems
 
----
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/arman-rajaei/**
-- 🌐 GitHub: **https://github.com/Arman-Rajaei**
-
-_
+- 💼 LinkedIn: https://www.linkedin.com/in/arman-rajaei/
+- 📧 Email: [arman.rajaei1992@gmail.com](mailto:arman.rajaei1992@gmail.com)
