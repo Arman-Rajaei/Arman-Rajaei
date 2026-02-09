@@ -4,6 +4,7 @@ I'm a **Signal Processing & Machine Learning Engineer** with a strong background
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
+
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td valign="top" width="60%" style="border: none;">
