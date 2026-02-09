@@ -4,17 +4,24 @@ I'm a **Signal Processing & Machine Learning Engineer** with a strong background
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
-<p align="center">
-  <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="500" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ## 🔬 What I work on
 
 - Digital signal processing (FFT, wavelets, filtering, denoising)
 - Biomedical signal analysis (SNA, physiological time-series)
-- Spectral-domain OCT reconstruction and 3D volume processing  
+- Spectral-domain OCT reconstruction and 3D volume processing
 - Numerical modeling and optimization
 - Python, MATLAB, C++, CUDA-accelerated workflows
+
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="400"/>
+    </td>
+  </tr>
+</table>
   
 ## 🛠️ Languages & Tools
 
