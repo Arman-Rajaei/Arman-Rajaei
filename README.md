@@ -4,9 +4,9 @@ I'm a **Signal Processing & Machine Learning Engineer** with a strong background
 **biomedical imaging, numerical algorithms, and high-performance data processing**.
 
 My work focuses on building **end-to-end pipelines** — from raw data to reliable, interpretable results.
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="top" width="60%" style="border: none;">
 
 ## 🔬 What I work on
 
@@ -17,7 +17,7 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - Python, MATLAB, C++, CUDA-accelerated workflows
 
     </td>
-    <td valign="top" width="40%" align="right">
+    <td valign="top" width="40%" align="right" style="border: none;">
       <img src="original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="400"/>
     </td>
   </tr>
@@ -47,7 +47,6 @@ My work focuses on building **end-to-end pipelines** — from raw data to reliab
 - High-performance signal processing
 - Translating research code into production-ready pipelines
 - Applied ML for biomedical and sensing systems
-
 
 ## 📫 Connect with me
 
