@@ -32,35 +32,37 @@ I build **end-to-end technical systems** — from raw signals to interpretable, 
 
 # 📡 Signal Processing & Control Systems
 
-- 🔹 **Phase-Locked Loop (PLL) Intuition Series**  
-  Visual and mathematical exploration of digital PLL, NCO, and phase convergence  
-  → https://github.com/Arman-Rajaei/Phase-Locked-Loop-NCO-Intuition  
+🔹 <a href="https://github.com/Arman-Rajaei/Spectral-Domain-OCT-3D-Pipeline" style="text-decoration: none; color: inherit;">
+<strong>Spectral-Domain OCT 3D Pipeline</strong>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High-performance reconstruction image and signal processing pipeline, including FFT, dispersion compensation, and volume processing
 
-- 🔹 **Digital PLL – I/Q Phase Detector**  
-  Phase error behavior and quadrature detection analysis  
+🔹 <a href="https://github.com/Arman-Rajaei/Digital_PLL_Phase_Error_-_I-Q_Phase_Detector" style="text-decoration: none; color: inherit;">
+<strong>Digital PLL – I/Q Phase Detector</strong>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visual and mathematical exploration of digital PLL, NCO, and phase convergence analysis
 
-- 🔹 **Spectral-Domain OCT 3D Pipeline**  
-  High-performance reconstruction pipeline including FFT, dispersion compensation, and volume processing  
+🔹 <a href="https://github.com/Arman-Rajaei/kalman-filter-actuator-simulation" style="text-decoration: none; color: inherit;">
+<strong>Kalman Filter Actuator Simulation</strong>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State estimation, system modeling, and simulation
 
 ---
 
 # 📊 Data Analysis & Scientific Computing
 
-- 🔹 **Kalman Filter Actuator Simulation**  
-  State estimation, system modeling, and simulation  
+🔹 **Biomedical Signal Clustering**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pattern extraction, clustering, and feature analysis  
 
-- 🔹 **Biomedical Signal Clustering**  
-  Pattern extraction, clustering, and feature analysis  
-
-- 🔹 Numerical interpolation & transformation modeling experiments  
+🔹 Numerical interpolation & transformation modeling experiments  
 
 ---
 
 # 🤖 AI & Machine Learning
 
-- 🔹 Reinforcement Learning – Biped Robot Control  
-- 🔹 LLM-based Sentiment Analysis  
-- 🔹 CNN-based Image Processing Experiments  
+🔹 Reinforcement Learning – Biped Robot Control  
+🔹 LLM-based Sentiment Analysis  
+🔹 CNN-based Image Processing Experiments  
 
 ---
 
