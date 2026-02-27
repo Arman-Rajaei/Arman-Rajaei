@@ -35,7 +35,7 @@ I build **end-to-end technical systems** — from raw signals to interpretable, 
 🔹 <a href="https://github.com/Arman-Rajaei/Spectral-Domain-OCT-3D-Pipeline" style="text-decoration: none; color: inherit;">
 <strong>Spectral-Domain OCT 3D Pipeline</strong>
 </a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High-performance reconstruction image and signal processing pipeline, including FFT, dispersion compensation, and volume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Efficient reconstruction image and signal processing pipeline, including FFT, dispersion compensation, and volume processing
 
 🔹 <a href="https://github.com/Arman-Rajaei/Digital_PLL_Phase_Error_-_I-Q_Phase_Detector" style="text-decoration: none; color: inherit;">
 <strong>Digital PLL – I/Q Phase Detector</strong>
