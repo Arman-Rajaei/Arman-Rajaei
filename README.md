@@ -62,7 +62,10 @@ I build **end-to-end technical systems** — from raw signals to interpretable, 
 
 🔹 Reinforcement Learning – Biped Robot Control  
 🔹 LLM-based Sentiment Analysis  
-🔹 CNN-based Image Processing Experiments  
+🔹 <a href="https://github.com/Arman-Rajaei/monocular-depth-estimation" style="text-decoration: none; color: inherit;">
+<strong>CNN-based Image Processing Experiments</strong>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning CNN framework in PyTorch for monocular depth estimation with metric-scale mapping
 
 ---
 
