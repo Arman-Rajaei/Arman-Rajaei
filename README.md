@@ -3,7 +3,7 @@
 I'm an **AI & Signal Intelligence Engineer** focused on  
 **machine learning for biomedical imaging, time-series analysis, and high-performance computing**.
 
-I build **end-to-end technical systems** — from raw signals to interpretable, production-ready pipelines.
+I design and deploy **end-to-end AI systems** — transforming raw signals into interpretable, production-grade machine learning pipelines.
 
 ---
 
