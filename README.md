@@ -13,11 +13,11 @@ I build **end-to-end technical systems** — from raw signals to interpretable, 
 
 ## 🔬 Core Expertise
 
-- Digital signal processing (FFT, wavelets, filtering, denoising)
-- Biomedical signal analysis (SNA, physiological time-series)
-- Spectral-domain OCT reconstruction & 3D volume processing
-- Numerical modeling and optimization
-- Python, MATLAB, C++, CUDA workflows
+- Artificial intelligence & machine learning systems
+- Deep learning for time-series and image-based inference
+- Signal processing and statistical data modeling
+- 3D medical image reconstruction and volumetric processing
+- Scientific computing workflows in Python, MATLAB, and C++. 
 
 </td>
 <td width="40%" align="right">
