@@ -1,7 +1,7 @@
 # Hi, I'm Arman
 
-I'm a **Signal Processing & Machine Learning Engineer** with a strong background in  
-**biomedical imaging, numerical algorithms, and high-performance data processing**.
+I'm an **AI & Signal Intelligence Engineer** focused on  
+**machine learning for biomedical imaging, time-series analysis, and high-performance computing**.
 
 I build **end-to-end technical systems** — from raw signals to interpretable, production-ready pipelines.
 
@@ -65,7 +65,7 @@ I build **end-to-end technical systems** — from raw signals to interpretable, 
 🔹 <a href="https://github.com/Arman-Rajaei/monocular-depth-estimation" style="text-decoration: none; color: inherit;">
 <strong>CNN-based Image Processing Experiments</strong>
 </a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning CNN framework in PyTorch for monocular depth estimation with metric-scale mapping
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning CNN framework in PyTorch for monocular depth estimation with metric-scale mapping. 
 
 ---
 
