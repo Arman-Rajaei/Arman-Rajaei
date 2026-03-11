@@ -1,5 +1,7 @@
 # Hi, I'm Arman
 
+<!--I'm an **AI & Signal Intelligence Engineer** focused on **machine learning for biomedical imaging, time-series analysis, and high-performance computing**. I design and deploy **end-to-end AI systems** — transforming raw signals into interpretable, production-grade machine learning pipelines. -->
+
 I'm a **Biomedical Signal and Imaging Engineer** working at the intersection of **signal processing, computational imaging, and scientific computing**.
 
 My work focuses on transforming **complex biomedical signals and imaging data** into reliable computational pipelines for **image reconstruction, quantitative analysis, and system prototyping**. I build and deploy **end-to-end processing systems** that convert raw measurements into interpretable and robust outputs for research and real-world applications.
