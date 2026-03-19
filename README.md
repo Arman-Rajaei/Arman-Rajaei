@@ -14,11 +14,14 @@ My work focuses on transforming **complex biomedical signals and imaging data** 
 
 ## 🔬 Core Expertise
 
-- Artificial intelligence & machine learning systems
-- Deep learning for time-series and image-based inference
-- Signal processing and statistical data modeling
-- 3D medical image reconstruction and volumetric processing
-- Scientific computing workflows in Python, MATLAB, and C++. 
+<!--- Artificial intelligence & machine learning systems - Deep learning for time-series and image-based inference - Signal processing and statistical data modeling - 3D medical image reconstruction and volumetric processing - Scientific computing workflows in Python, MATLAB, and C++. -->
+
+- Biomedical signal processing and computational imaging
+- Spectral-domain OCT and 3D volumetric reconstruction
+- Numerical methods, inverse problems, and system modeling
+- Scientific computing in Python, MATLAB, and C++
+- High-performance data processing and pipeline optimization
+- Quantitative analysis and feature extraction from biomedical data
 
 </td>
 <td width="40%" align="right">
