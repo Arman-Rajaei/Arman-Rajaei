@@ -53,17 +53,20 @@ My work focuses on transforming **complex biomedical signals and imaging data** 
 
 ---
 
-# 📊 Data Analysis & Scientific Computing
+# 📊 Data Science & Machine Learning
 
 🔹 <a href="https://github.com/Arman-Rajaei/Vehicle-Market-Value-Intelligence" style="text-decoration: none; color: inherit;">
 <strong>Vehicle Market Value Intelligence</strong>
 </a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data-driven pricing engine for used car inventory using regression analysis, OLS diagnostics, and feature engineering
 
+🔹 <a href="https://github.com/Arman-Rajaei/Customer-Behavior-Prediction-Engine" style="text-decoration: none; color: inherit;">
+<strong>Customer Behavior Prediction Engine</strong>
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning classification pipeline predicting audiobook customer return probability from 2 years of behavioural and engagement data
+
 🔹 **Biomedical Signal Clustering**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pattern extraction, clustering, and feature analysis  
-
-🔹 Numerical interpolation & transformation modeling experiments
 
 ---
 
