@@ -63,7 +63,7 @@ My work focuses on transforming **complex biomedical signals and imaging data** 
 🔹 <a href="https://github.com/Arman-Rajaei/Customer-Behavior-Prediction-Engine" style="text-decoration: none; color: inherit;">
 <strong>Customer Behavior Prediction Engine</strong>
 </a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning classification pipeline predicting audiobook customer return probability from 2 years of behavioural and engagement data
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning classification pipeline predicting customer return probability from 2 years of behavioural and engagement data
 
 🔹 **Biomedical Signal Clustering**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pattern extraction, clustering, and feature analysis  
